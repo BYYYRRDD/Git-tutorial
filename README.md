@@ -1,1 +1,3 @@
-# Git-tutorial
+# Git-tutorial: Drew Byrd 
+
+Actually learning Git!
