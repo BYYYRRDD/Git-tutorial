@@ -3,3 +3,8 @@
 Actually learning Git!
 
 Gonna Learn some kool stuff!
+
+# Topics
+- git pull
+- git push
+- git clone
